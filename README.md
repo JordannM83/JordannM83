@@ -12,9 +12,9 @@
 ### 🔐 **CYBER DEVELOPER** | 💻 **FULL-STACK** | ⚙️ **SYSTEM PROGRAMMING**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Coding-00ff41?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-00d4ff?style=for-the-badge&logo=stackbit&logoColor=white" />
-  <img src="https://img.shields.io/badge/School-Holberton-ff006e?style=for-the-badge&logo=educative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Coding-00ff41?style=for-the-badge&logo=statuspage&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack-00d4ff?style=for-the-badge&logo=stackbit&logoColor=black" />
+  <img src="https://img.shields.io/badge/School-Holberton-ff006e?style=for-the-badge&logo=educative&logoColor=black" />
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JordannM83&color=00ff41&style=for-the-badge&label=VISITORS)](https://github.com/JordannM83)
@@ -34,8 +34,8 @@ class Developer:
     def __init__(self):
         self.name = "Jordann"
         self.school = "Holberton School France"
-        self.languages = ["C", "Python", "Shell", "JavaScript"]
-        self.interests = ["Low-level programming", "Algorithms", "Web Development"]
+        self.languages = ["C", "Python", "Shell", "JavaScript", "Mysql"]
+        self.interests = ["High-level programming", "Algorithms", "Web Development"]
         self.currently_learning = "System Architecture & Data Structures"
     
     def say_hi(self):
@@ -58,6 +58,7 @@ me.say_hi()
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧰 Outils & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
