@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner cyber avec effet Matrix -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00d4ff,100:00ff88&height=200&section=header&text=JORDANN%20M83&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20System%20Programming%20Enthusiast&descSize=20&descAlignY=55" width="100%"/>
+<!-- Banner cyber Matrix style -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,25:0a0e27,50:00ff41,75:0a0e27,100:0d1117&height=200&section=header&text=JORDANN%20M83&fontSize=70&fontAlign=50&fontAlignY=40&animation=blinking&fontColor=00ff41&stroke=00ff41&strokeWidth=2&desc=%3E%20FULL-STACK%20DEVELOPER%20%7C%20SYSTEM%20PROGRAMMER%20%3C&descSize=20&descAlign=50&descAlignY=65" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%3E_+Initializing+system...+%E2%9C%93;%3E_+Loading+Full-Stack+Developer+profile...;%3E_+C+%7C+Python+%7C+JavaScript+%7C+Shell+%E2%9A%A1;%3E_+Holberton+School+France+%F0%9F%87%AB%F0%9F%87%B7;%3E_+Low-level+%2B+High-level+%3D+%F0%9F%9A%80;%3E_+Welcome+to+my+digital+workspace+!" alt="Typing SVG" />
