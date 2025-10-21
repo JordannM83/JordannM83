@@ -1,18 +1,25 @@
 <div align="center">
 
-<!-- Banner animé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jordann%20M83&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
-
-### 👨‍💻 Étudiant Développeur Full-Stack
-### 🎓 @ Holberton School France 🇫🇷
-### 💡 Passionné par le code bas niveau et les architectures logicielles
+<!-- Banner cyber avec effet Matrix -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00d4ff,100:00ff88&height=200&section=header&text=JORDANN%20M83&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20System%20Programming%20Enthusiast&descSize=20&descAlignY=55" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Bienvenue+sur+mon+profil+GitHub+!+%F0%9F%91%8B;D%C3%A9veloppeur+en+formation+continue;Sp%C3%A9cialis%C3%A9+en+C+%7C+Python+%7C+JavaScript;Toujours+pr%C3%AAt+%C3%A0+apprendre+de+nouvelles+choses+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%3E_+Initializing+system...+%E2%9C%93;%3E_+Loading+Full-Stack+Developer+profile...;%3E_+C+%7C+Python+%7C+JavaScript+%7C+Shell+%E2%9A%A1;%3E_+Holberton+School+France+%F0%9F%87%AB%F0%9F%87%B7;%3E_+Low-level+%2B+High-level+%3D+%F0%9F%9A%80;%3E_+Welcome+to+my+digital+workspace+!" alt="Typing SVG" />
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JordannM83&color=blueviolet&style=flat-square&label=Visiteurs)](https://github.com/JordannM83)
-[![GitHub followers](https://img.shields.io/github/followers/JordannM83?label=Followers&style=flat-square&color=blue)](https://github.com/JordannM83)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 🔐 **CYBER DEVELOPER** | 💻 **FULL-STACK** | ⚙️ **SYSTEM PROGRAMMING**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Coding-00ff41?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack-00d4ff?style=for-the-badge&logo=stackbit&logoColor=white" />
+  <img src="https://img.shields.io/badge/School-Holberton-ff006e?style=for-the-badge&logo=42&logoColor=white" />
+</p>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=JordannM83&color=00ff41&style=for-the-badge&label=VISITORS)](https://github.com/JordannM83)
+[![GitHub followers](https://img.shields.io/github/followers/JordannM83?label=Followers&style=for-the-badge&color=00d4ff&logo=github)](https://github.com/JordannM83)
+[![GitHub Stars](https://img.shields.io/github/stars/JordannM83?label=Stars&style=for-the-badge&color=00ff88&logo=github)](https://github.com/JordannM83)
 
 </div>
 
