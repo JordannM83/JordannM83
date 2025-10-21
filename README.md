@@ -12,14 +12,14 @@
 ### 🔐 **CYBER DEVELOPER** | 💻 **FULL-STACK** | ⚙️ **SYSTEM PROGRAMMING**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Coding-000000?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=00ff41" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-000000?style=for-the-badge&logo=stackbit&logoColor=white&labelColor=00d4ff" />
-  <img src="https://img.shields.io/badge/School-Holberton-000000?style=for-the-badge&logo=educative&logoColor=white&labelColor=ff006e" />
+  <img src="https://img.shields.io/badge/Status-Coding-00ff41?style=for-the-badge&logo=statuspage&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack-00d4ff?style=for-the-badge&logo=stackbit&logoColor=000000" />
+  <img src="https://img.shields.io/badge/School-Holberton-ff006e?style=for-the-badge&logo=educative&logoColor=000000" />
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JordannM83&color=000000&style=for-the-badge&label=VISITORS&labelColor=00ff41)](https://github.com/JordannM83)
-[![GitHub followers](https://img.shields.io/github/followers/JordannM83?label=Followers&style=for-the-badge&color=000000&logo=github&labelColor=00d4ff)](https://github.com/JordannM83)
-[![GitHub Stars](https://img.shields.io/github/stars/JordannM83?label=Stars&style=for-the-badge&color=000000&logo=github&labelColor=00ff88)](https://github.com/JordannM83)
+[![Profile Views](https://komarev.com/ghpvc/?username=JordannM83&color=00ff41&style=for-the-badge&label=VISITORS&logoColor=000000)](https://github.com/JordannM83)
+[![GitHub followers](https://img.shields.io/github/followers/JordannM83?label=Followers&style=for-the-badge&color=00d4ff&logo=github&logoColor=000000)](https://github.com/JordannM83)
+[![GitHub Stars](https://img.shields.io/github/stars/JordannM83?label=Stars&style=for-the-badge&color=00ff88&logo=github&logoColor=000000)](https://github.com/JordannM83)
 
 </div>
 
