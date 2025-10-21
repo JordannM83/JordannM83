@@ -1,14 +1,10 @@
 <div align="center">
 
-<!-- Banner cyber Matrix style -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=250&section=header&text=JORDANN%20M83&fontSize=70&animation=twinkling&fontColor=00ff41&stroke=00ff41&strokeWidth=1" width="100%"/>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=%3E_+FULL-STACK+DEVELOPER+%7C+SYSTEM+PROGRAMMER;%3E_+Holberton+School+France+%F0%9F%87%AB%F0%9F%87%B7;%3E_+Low-level+%2B+High-level+%3D+Complete+Stack" alt="Subtitle" />
-</h3>
+<!-- Banner Matrix avec texte bien visible -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=300&section=header&text=JORDANN%20M83&fontSize=90&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20System%20Programmer&descAlignY=60&descSize=25" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%3E_+Initializing+system...+%E2%9C%93;%3E_+Loading+Full-Stack+Developer+profile...;%3E_+C+%7C+Python+%7C+JavaScript+%7C+Shell+%E2%9A%A1;%3E_+Passionate+about+algorithms+and+architecture;%3E_+Building+the+future+one+line+at+a+time+%F0%9F%9A%80;%3E_+Welcome+to+my+digital+workspace+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=%3E_+sudo+apt+install+skills+--upgrade;%3E_+Languages%3A+C+%7C+Python+%7C+JavaScript+%7C+Shell;%3E_+Holberton+School+France+%F0%9F%87%AB%F0%9F%87%B7+%7C+System+%2B+Web;%3E_+Building+innovative+solutions+%F0%9F%9A%80;%3E_+Welcome+to+my+GitHub+profile+!" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
