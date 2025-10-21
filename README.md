@@ -1,19 +1,18 @@
 <div align="center">
-  
-# 👨‍💻 Bienvenue sur mon GitHub ! 🚀
 
-```ascii
-     _                 _                   __  __ _____ ____  
-    | | ___  _ __ __| | __ _ _ __  _ __ |  \/  ( _ _|___ \ 
- _  | |/ _ \| '__/ _` |/ _` | '_ \| '_ \| |\/| / _ \  __) |
-| |_| | (_) | | | (_| | (_| | | | | | | | |  | | (_) |/ __/ 
- \___/ \___/|_|  \__,_|\__,_|_| |_|_| |_|_|  |_|\___/|_____|
-```
+<!-- Banner animé -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jordann%20M83&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-### 🎓 Étudiant Développeur @ Holberton School France
+### 👨‍💻 Étudiant Développeur Full-Stack
+### 🎓 @ Holberton School France 🇫🇷
 ### 💡 Passionné par le code bas niveau et les architectures logicielles
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JordannM83&color=blueviolet&style=flat-square)](https://github.com/JordannM83)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Bienvenue+sur+mon+profil+GitHub+!+%F0%9F%91%8B;D%C3%A9veloppeur+en+formation+continue;Sp%C3%A9cialis%C3%A9+en+C+%7C+Python+%7C+JavaScript;Toujours+pr%C3%AAt+%C3%A0+apprendre+de+nouvelles+choses+!" alt="Typing SVG" />
+</p>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=JordannM83&color=blueviolet&style=flat-square&label=Visiteurs)](https://github.com/JordannM83)
+[![GitHub followers](https://img.shields.io/github/followers/JordannM83?label=Followers&style=flat-square&color=blue)](https://github.com/JordannM83)
 
 </div>
 
