@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner Matrix compact et stylée -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:00ff41,100:000000&height=180&section=header&text=JORDANN%20M83&fontSize=80&fontColor=ffffff&animation=twinkling&rotate=3&fontAlignY=28&desc=Full-Stack%20Developer%20%7C%20System%20Hacker&descAlignY=50&descSize=22" width="100%"/>
+<!-- Banner Matrix droit et stylé -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:000000&height=160&section=header&text=JORDANN%20M83&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Holberton%20Student&descAlignY=55&descSize=20" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=70&lines=%3E_+sudo+apt+install+skills+--upgrade;%3E_+C+%7C+Python+%7C+JavaScript+%7C+Shell+%7C+Full-Stack;%3E_+Holberton+School+France+%F0%9F%87%AB%F0%9F%87%B7;%3E_+System+Programming+%2B+Web+Development+%F0%9F%9A%80;%3E_+Welcome+to+my+code+matrix+!" alt="Typing SVG" />
