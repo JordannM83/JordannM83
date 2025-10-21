@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Coding-00ff41?style=for-the-badge&logo=statuspage&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack-00d4ff?style=for-the-badge&logo=stackbit&logoColor=white" />
-  <img src="https://img.shields.io/badge/School-Holberton-ff006e?style=for-the-badge&logo=42&logoColor=white" />
+  <img src="https://img.shields.io/badge/School-Holberton-ff006e?style=for-the-badge&logo=educative&logoColor=white" />
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JordannM83&color=00ff41&style=for-the-badge&label=VISITORS)](https://github.com/JordannM83)
